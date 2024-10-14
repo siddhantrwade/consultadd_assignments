@@ -1,0 +1,14 @@
+# Virtual environment
+DjangoAssignment1/
+
+# Python
+*.pyc
+__pycache__/
+
+# Django
+db.sqlite3
+media/
+
+# Other common excludes
+*.log
+.vscode/
